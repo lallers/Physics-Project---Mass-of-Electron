@@ -1,0 +1,37 @@
+/*  
+Theme Name: Creation Style2
+Theme URI: http://www.templatesquare.com/
+Description: Creation Style2 is a child theme of Creation.
+Author: templatesquare
+Author URI: http://www.templatesquare.com/
+Tags: theme-options, widget-ready, right-sidebar
+Template: creation
+*/
+
+@import url(../creation/style.css);
+
+
+body {
+	font-family:Arial, Tahoma, Verdana;
+	font-size:12px;
+	margin:0 auto;
+	padding:0;
+	color:#000000;
+	line-height:20px;
+	background-color:#fff!important;
+	border-top:solid 8px #000;
+	background-image:url(images/bg_body_2.gif); background-repeat:repeat-x;
+}
+
+#wrapper-top{width:1040px; margin:0 auto; }
+#container{width:940px!important; margin:0 auto; padding:0px 50px 20px 50px; background:transparent;}
+#container-wrap{width:100%; }
+
+#top{height:140px; border-top:0px!important;  border-bottom:solid 1px #f4f4f4; padding:0px 0px 0px 0px; z-index:200 !important; position:relative}
+
+
+/* FOOTER */
+#container-bottom-wrap{width:100%; border-top:solid 1px #e9e9e9; clear:left; background-color:#fafafa; float:left;}
+#wrapper-bottom{ width:1040px; margin:0 auto; background-color:#fafafa;  }
+#container-footer{ width:1040px; margin:0 auto; background-color:#fafafa;}
+#footer{padding:20px 0px 30px 0px; margin:0 auto;  font-size:11px; color:#999999; border:0px;    }

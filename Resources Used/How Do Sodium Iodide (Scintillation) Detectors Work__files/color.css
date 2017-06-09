@@ -1,0 +1,12 @@
+#top-navigation li.current-menu-item a, #top-navigation li.current_page_item a,  a:link, a:visited, a:active, a:hover, h1, h2, h3, h4, h5, h6, .header-title h1, .thequote-right,.thequote-left, .thequote-center, .page-title, .page-title a:active, .page-title a:hover, #content .entry-title, .entry-title a:link, .entry-title a:visited, .entry-title a:active,
+.entry-title a:hover, .entry-content blockquote, .page-link a:link, .page-link a:visited, .page-link a:active, .page-link a:hover, .entry-meta a, .entry-utility a, .entry-meta a:hover, .entry-utility a:hover, .comment-meta a:active, .comment-meta a:hover, .reply a:hover, a.comment-edit-link:hover, #respond .required, .sidebox ul li:hover a, .sidebox h2, .sidebox ul.latestpost li a, .sidebox ul.latestpost li a:visited, .sidebox ul.latestpost li .smalltext, .but-download h2, .widget_rss a.rsswidget:hover, #top-navigation li a:hover, .user, a.user, .user a, #top-navigation ul.sub-menu li a:hover      {color:#177591;} /* Navigation, Heading, Title */
+
+#top-navigation ul.sub-menu li a:hover, .current-menu-parent a, #top-navigation .current-menu-parent .sub-menu .current-menu-item a, #top-navigation .current_page_parent .sub-menu .current_page_item a:link, .current_page_parent a {color:#177591!important;}
+
+#top-navigation li a:hover{ border-top:solid 2px #177591;} /* Border above navigation */
+
+#top{border-top:solid 8px #000;} /* Border on top of the site */
+
+body {background-color:#000;} /* Background color */
+
+
